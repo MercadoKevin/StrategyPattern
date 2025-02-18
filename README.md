@@ -52,3 +52,5 @@ Refactor the existing codes and provide the UML Diagram:
         }
     }
     }
+![image](https://github.com/user-attachments/assets/6e822879-49a0-4c68-aeaf-373002e94995)
+
